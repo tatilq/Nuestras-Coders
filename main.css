@@ -20,7 +20,13 @@ filter: brightness(60%);
 
 	color:white;
 }
-
+hr
+{
+	text-align:left;
+	width:5%;
+	height:2px;
+	background-color: black;
+}
 .contenedor
 {
 
