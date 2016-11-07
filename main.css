@@ -3,31 +3,45 @@
 img{
 	position: relative;
 	opacity: 40px;
+	top: 50px;
+	right: 70px;
+	
+	color:black;
+-webkit-filter: brightness(60%);
+filter: brightness(60%);
 }
-
-p{
+.titulo
+{
+	color: black;
+	text-align: left;
+}
+.p1, .p2, .p3, .p4, .p5, .p6{
 	position: absolute;
 
+	color:white;
 }
 
-	.contenedor{
-		display: inline-block;
-		border: 1px solid black;
-		padding: 5px;
-		height: 600px;
-		width: 980px;
-		padding: 50px;
-		position: relative;
-		font-size: 13px;
-	}
-	.caja{
-		height: 100px;
-		width: 100px;
-		border: 1px;
-		margin: 80px;
-		display: inline-block;
-	}
-	.
+.contenedor
+{
 
+	display: inline-block;
+	height: 700px;
+	width: 980px;
+	padding-left: 50px;
+	position: relative;
+	
+	bottom: 100px;
+	font-size: 13px;
+}
+
+.caja
+{
+	height: 100px;
+	width: 100px;
+	border: 1px;
+	margin: 80px;
+	display: inline-block;
+
+}
 
 	
